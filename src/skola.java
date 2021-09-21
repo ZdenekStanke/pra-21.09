@@ -3,5 +3,6 @@ public class skola {
         System.out.println("ahoj svete");
         System.out.println("zelenej je ondra ");
         System.out.println("zelenej je ondra ");
+        System.out.println("zelenej ondra je modrej ");
     }
 }
